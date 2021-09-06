@@ -2,3 +2,4 @@ test 2.txt
 this is 2.txt 
 today is  6th,Sep
 it works well after config proxy as ""
+very good , thanks for your great help!
